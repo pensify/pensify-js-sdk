@@ -1,7 +1,10 @@
 /node_modules
-/dist
+/src
 
 .DS_Store
 .vscode
 .idea
 .env
+
+tsconfig.json
+tsup.config.ts
